@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PhuscBui&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/PhuscBui?tab=followers">
     <img src="https://img.shields.io/github/followers/PhuscBui?style=flat&logo=github&label=Followers" alt="GitHub followers" />
   </a>
   <a href="https://www.linkedin.com/in/phusc-bui/">
